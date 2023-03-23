@@ -243,6 +243,18 @@ header {
     z-index: 99;
 }
 
+.container_foto{
+    display: flex;
+    justify-content: center;
+    margin-top: 7vh
+}
+
+#foto {
+    display:flex;
+    width: 15vh;
+    border-radius:50%;
+    border: 1px solid #2c3e50
+}
 .show-menu .sidebar {
     right: 0;
 }
